@@ -7,6 +7,7 @@
 <title>Práctica de Despliegue - Parte 2</title>
 </head>
 <body>
-	<%=HolaMundo.getSaluda()%>
+	<p><%=HolaMundo.getSaluda()%></p>
+	<p>Versión segunda!</p>
 </body>
 </html>
